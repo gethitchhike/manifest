@@ -22,7 +22,7 @@ Any function in the system is a plugin. Also plugins can have depencies to other
 
 ###Keep 3rd party dependencies flat
 
-Sometimes you need to use 3rd party libraries to get your plugin working. Sure, you can do that. But keep it flat. And throw them in `/Lib/`
+Sometimes you need to use 3rd party libraries to get your plugin working. Sure, you can do that. The 3rd party libraries must be updated using composer.
 
 ###Only create config values if you need to
 
