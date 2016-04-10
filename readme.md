@@ -1,6 +1,8 @@
 ![alt tag](https://avatars0.githubusercontent.com/u/13689977?v=3&s=200)
 #Hitchhike manifest
 
+[![Join the chat at https://gitter.im/gethitchhike/manifest](https://badges.gitter.im/gethitchhike/manifest.svg)](https://gitter.im/gethitchhike/manifest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This manifest describes the targets behind the project and should help to keep them observed.
 
 ##Satisfy the KISS principle
